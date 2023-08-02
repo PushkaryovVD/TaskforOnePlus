@@ -1,0 +1,22 @@
+
+.hero{
+    width: 216px;
+    height: 436px;
+    border: 0.7px solid rgba(48, 47, 46, 0.70);
+    flex-shrink: 0;
+}
+.hero__rare__value{
+    width: 90px;
+    height: 21px;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Rubik;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26.308px;
+    border-radius: 7px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
